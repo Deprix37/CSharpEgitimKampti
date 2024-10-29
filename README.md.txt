@@ -13,7 +13,7 @@ Bu projede Double, Char değişkenler öğrenildi. Değişken değerleri kullan�
 ✨ Proje 4: Loops
 For ve while döngüsü öpğrenildi  ⚖️
 
-✨ Proje 5: Loops With Stars
+✨ Proje 5: Loops With Starss
 For döngüsü kullanılarak yıldızlar ile priramit, üçgen ve baklamva dilimi gibi şekiller oluşturuldu 🔄
 
 ✨ Proje 6: Arrays
