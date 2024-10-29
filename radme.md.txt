@@ -1,0 +1,31 @@
+🚀 C# EĞİTİM KAMPI PROJELERİ
+Bu repo, Murat Yücedağ'ın eğitmenliğinde gerçekleştirilen C# Eğitim Kampı süresince tamamladığım ilk 8 projeyi içermektedir. Her bir proje, belirli programlama kavramlarını anlama ve uygulama yeteneğimi geliştirmeme yardımcı oldu. Aşağıda her projeye dair teknik detayları bulabilirsiniz:
+
+✨ Proje 1: Main Subjects!
+Bu projede yazdırma komutları ve temel veri tiplerinden oaln string ve int değişkenleri öğrenildi 🌍
+
+✨ Proje 2: Variables
+Bu projede Double, Char değişkenler öğrenildi. Değişken değerleri kullanıcıdan klavye ile girdirilerek işlemler yapıldı.🔢
+
+✨ Proje 3: Making Decision
+ if ve switch case karar yapıları öğrenildi. Switch case ile hesap makinesi projesi yapıldı. 🧩
+
+✨ Proje 4: Loops
+For ve while döngüsü öpğrenildi  ⚖️
+
+✨ Proje 5: Loops With Stars
+For döngüsü kullanılarak yıldızlar ile priramit, üçgen ve baklamva dilimi gibi şekiller oluşturuldu 🔄
+
+✨ Proje 6: Arrays
+Diziler öğrenildi, listeleme işlemleri yapışdı  🛠️
+
+✨ Proje 7: ForeachLoop
+Foreaach döngüsünü öğrenildi, foreach döngüsü ile sınav sistemi uygulaması geliştirildi. 🎓
+
+✨ Proje 8: Methods
+Fonksiyonlar öğrenildi böylece kod tekrarından kurtulduk :) geriye değer döndüren ve döndürmeyen metodlarda projeler yapıldı.
+
+✨ Proje 9: DatabaseProject
+Temel Database işlemleri öğrenildi c# ve sql bağlantısı öğrenildi.
+
+Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
